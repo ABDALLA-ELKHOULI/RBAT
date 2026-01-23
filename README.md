@@ -1,20 +1,87 @@
-# RBAT - Research-Based Agriculture Technology
+# 🌾 RBAT - Research-Based Agriculture Technology
 
-An intelligent agriculture platform for Saudi Arabia providing data-driven insights for crops, livestock, fisheries, and climate with comprehensive references and forecasting capabilities.
+**Intelligent Agriculture Platform for Saudi Arabia**
 
-## Overview
+RBAT is an AI-powered agriculture intelligence platform that provides data-driven insights, forecasts, and recommendations for crops, livestock, fisheries, and climate across Saudi Arabia. Built for researchers, startups, students, and investors.
 
-RBAT is designed for researchers, startups, students, and investment arms who need access to reliable agricultural data and intelligence for Saudi Arabia.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11+-green.svg)
+![Node](https://img.shields.io/badge/node-18+-green.svg)
+![Claude](https://img.shields.io/badge/AI-Claude%20Sonnet%204.5-purple.svg)
 
-### Key Features
+---
 
-- **Multi-Domain Intelligence**: Crops, Livestock, Fisheries, Climate
-- **Data Aggregation**: Weather, soil, satellite imagery, market news
-- **AI-Powered Insights**: Intelligent agent using Claude API with RAG
-- **Forecasting**: Predictive analytics for agricultural planning
-- **Referenced Data**: All insights backed by verified sources
-- **Interactive Reports**: Generate comprehensive reports with citations
-- **Crop Recommendations**: Where to grow what, based on climate, soil, water availability
+## ✨ Key Features
+
+- 🤖 **AI Agent with Citations** - Ask any agriculture question, get answers with academic references
+- 🌱 **Multi-Domain Coverage** - Crops, Livestock, Fisheries, Climate data
+- 📊 **Market Forecasting** - Predict prices, yields, and trends
+- 🗺️ **Regional Intelligence** - Specific insights for all Saudi regions
+- 📈 **Report Generation** - Comprehensive research reports with references
+- ⛅ **Weather Integration** - Real-time climate data and forecasts
+- 📰 **News Aggregation** - Latest agriculture news and developments
+- 🛰️ **Satellite Data** - Vegetation indices, soil moisture, crop health
+
+---
+
+## 🚀 Quick Start (5 Minutes)
+
+### Prerequisites
+- Docker & Docker Compose installed
+- Anthropic API key (get from https://console.anthropic.com/)
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/ABDALLA-ELKHOULI/RBAT.git
+cd RBAT
+
+# 2. Configure environment
+cp .env.example .env
+# Edit .env and add your ANTHROPIC_API_KEY
+
+# 3. Start the platform
+docker-compose up
+
+# 4. Open in browser
+# Frontend: http://localhost:3000
+# API Docs: http://localhost:8000/docs
+```
+
+**📘 For detailed instructions, see [GETTING_STARTED.md](GETTING_STARTED.md)**
+
+---
+
+## 💡 Usage Examples
+
+### Chat with AI Agent
+
+Visit **http://localhost:3000/chat** and ask:
+- "What crops grow best in Riyadh during winter?"
+- "Compare investment opportunities in date farming vs olive farming"
+- "Forecast sheep prices for the next 6 months"
+- "Generate a feasibility study for aquaculture in Eastern Province"
+
+### Via API
+
+```bash
+curl -X POST http://localhost:8000/api/v1/agent/query \
+  -H "Content-Type: application/json" \
+  -d '{"query": "What crops grow best in Riyadh?"}'
+```
+
+---
+
+## 🛠️ Technology Stack
+
+**Backend:** Python 3.11+ • FastAPI • PostgreSQL + pgvector • SQLAlchemy • Claude API
+
+**Frontend:** Next.js 14 • React 18 • TypeScript • Tailwind CSS
+
+**AI & Data:** Claude Sonnet 4.5 • RAG • Vector Search • OpenWeather • NewsAPI • NASA
+
+**Infrastructure:** Docker • Cloud-ready (AWS, GCP, Azure)
 
 ## Architecture
 
