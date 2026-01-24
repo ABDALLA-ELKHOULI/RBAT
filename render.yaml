@@ -1,0 +1,42 @@
+services:
+  # PostgreSQL Database
+  - type: pserv
+    name: rbat-db
+    env: docker
+    plan: free
+    databases:
+      - name: rbat_db
+        databaseName: rbat_db
+        user: rbat_user
+
+  # Backend API
+  - type: web
+    name: rbat-backend
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: rbat-db
+          property: connectionString
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: REDIS_URL
+        value: redis://localhost:6379
+      - key: DEBUG
+        value: "True"
+
+  # Frontend
+  - type: web
+    name: rbat-frontend
+    env: docker
+    dockerfilePath: ./frontend/Dockerfile
+    plan: free
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        fromService:
+          type: web
+          name: rbat-backend
+          property: host
