@@ -108,8 +108,10 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 56 | Brembo rear caliper, LH (parking brake built in) | كليبر يسار | PR3Z-2553-x (the suffix is the colour) | ✅ | 235–313 (376–518) | 881–1,174 |
 | 56b | Brembo rear caliper, RH | كليبر يمين | PR3Z-2552-x | ✅ | 235–313 | 881–1,174 |
 | 57 | Rear rotor ×2 | هوب خلفي | PR3Z-2C026-A | ✅ | 80 each | 300 each |
-| 58 | Rear pads (both sides) | فحمات خلفية | PR3Z-2200-D | ✅ | 153 | 574 |
-| 59 | Parking brake pads | فحمات فرامل اليد | PR3Z-2200-C | ✅ | ❓ | ❓ |
+| 58 | Rear pads (both sides) | فحمات خلفية | PR3Z-2200-D (Motorcraft equivalent BRF-2075) | ✅ site | 148.90 (220) | 558 |
+| 59 | Parking brake pads | فحمات فرامل اليد | PR3Z-2200-C (Motorcraft equivalent BRF-2029) | ✅ site | 90.23 (131) | 338 |
+| 59b | Wheel liner retainer clips | كلبسات البطانة | W705589-S | ✅ site | 6.04 each | 23 each |
+| 59c | Fender / bumper nut | صامولة رفرف | W520802-S439 | ✅ site | 9.68 | 36 |
 | 60 | Rear brake hose | لي فرامل | PR3Z-2282-E | ⚠️ | ❓ | ❓ |
 | 61 | Dark Horse rear wheel 19×10 | جنط خلفي | Ford Performance M-1007-DHB1910 | ✅ | 475 | 1,781 |
 | 62 | Rear tire ×2 (replace as a pair: Torsen) | كفرات خلفية | Pirelli P Zero PZ4 275/40ZR19 (standard). Handling Pack: Trofeo RS 315/30ZR19 | ✅ | ❓ local | ~1,200–1,800 each (est.) |
