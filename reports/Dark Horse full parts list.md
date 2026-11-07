@@ -23,12 +23,14 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 4 | Rear floor pan (trunk floor) | أرضية الشنطة | FR3Z-6311215-A | ✅ | 336.67 (497.45) | 1,263 |
 | 5 | Rear body panel (inner) | البانل الخلفي | PR3Z-6340320-A | ✅ | 176.94 (261.43) | 664 |
 | 6 | Rear cross-member | عارضة خلفية | FR3Z-63109A68-A | ✅ | 93.44 (135.65) | 350 |
+| 6b | Package tray, structural sheet metal (coupe) | رف خلفي حديد | PR3Z-6346668-A | ✅ site | 243.21 (359.35) | 912 |
 | 7 | Floor side rail reinforcement | تقوية الشاصي | FR3Z-6311253-B | ⚠️ | ~73 | ~274 |
 | 8 | Inner wheelhouse, LH | بيت الكفر الداخلي يسار | FR3Z-6327887-A | ⚠️ | ❓ | ❓ |
 | 9 | Quarter panel extension | امتداد الربع | PR3Z-6328058-A | ✅ | ❓ | ❓ |
 | 10 | Rear corner outer panel (for the RH corner, if needed) | زاوية خلفية | PR3Z-63278A92-A | ✅ | ❓ | ❓ |
 | 11 | Rear wheelhouse liner, LH | بطانة الرفرف الخلفي | PR3Z-63278B51-B (Dark Horse-specific: CJ Pony SS41-V) | ✅ | 70.42 (102.50) | 264 |
-| 12 | Rear rail extensions / end plates | نهايات الشاصي | ❓ ask by VIN | ❓ | ❓ | ❓ |
+| 12 | Rear rail extensions / end plates | نهايات الشاصي | ❓ ask by VIN (site search found nothing) | ❓ | ❓ | ❓ |
+| 12b | Rear bumper cover screw | برغي الصدام | W716345-S450B | ✅ site | 9.68 | 36 |
 
 ## 2. Rear bumper and sensors (الصدام والحساسات)
 
@@ -95,9 +97,10 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 48 | Lower arm, RH | مقص سفلي يمين | PR3Z-5500-H | ✅ | 397 (585) | 1,489 |
 | 49 | Toe link kit | ذراع الترصيص | M-5972-M | ✅ | 78 | 293 |
 | 50 | MagneRide rear shock ×2 | مساعد مغناطيسي | PR3Z-18125-E | ⚠️ likely | 213–357 each (580) | 799–1,339 each |
-| 51 | Rear spring ×2 | سستة | PR3Z-5560-AC (Dark Horse suffix ⚠️) | ⚠️ | ❓ | ❓ |
-| 52 | Rear sway bar | عمود توازن | FR3Z-5A772-A / -B | ⚠️ | 132–162 | 495–608 |
-| 53 | Sway bar end link | رابط عمود التوازن | F2GZ-5C486-A | ⚠️ | ❓ | ❓ |
+| 51 | Rear spring, LH (adaptive damping) | سستة يسار | PR3Z-5560-AC | ✅ site | 100.56 (146) | 377 |
+| 51b | Rear spring, RH | سستة يمين | ❓ ask by VIN | ❓ | ~100 | ~377 |
+| 52 | Rear sway bar | عمود توازن | ❌ FR3Z-5A772-A is for non-5.0 cars. Need the Dark Horse number | ❓ | ❓ | ❓ |
+| 53 | Sway bar end link ×2 | رابط عمود التوازن | F2GZ-5C486-A | ✅ site | 43.19 each (67.82) | 162 each |
 
 ## 7. Brakes, hub, wheel and tire (الجهة الفاضية)
 
@@ -112,7 +115,8 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 59 | Parking brake pads | فحمات فرامل اليد | PR3Z-2200-C (Motorcraft equivalent BRF-2029) | ✅ site | 90.23 (131) | 338 |
 | 59b | Wheel liner retainer clips | كلبسات البطانة | W705589-S | ✅ site | 6.04 each | 23 each |
 | 59c | Fender / bumper nut | صامولة رفرف | W520802-S439 | ✅ site | 9.68 | 36 |
-| 60 | Rear brake hose | لي فرامل | PR3Z-2282-E | ⚠️ | ❓ | ❓ |
+| 60 | Rear brake hose, RH (Brembo) | لي فرامل يمين | PR3Z-2282-E | ✅ site | 108.14 (171.27) | 406 |
+| 60b | Rear brake hose, LH | لي فرامل يسار | ❓ ask by VIN | ❓ | ~108 | ~406 |
 | 61 | Dark Horse rear wheel 19×10 | جنط خلفي | Ford Performance M-1007-DHB1910 | ✅ | 475 | 1,781 |
 | 62 | Rear tire ×2 (replace as a pair: Torsen) | كفرات خلفية | Pirelli P Zero PZ4 275/40ZR19 (standard). Handling Pack: Trofeo RS 315/30ZR19 | ✅ | ❓ local | ~1,200–1,800 each (est.) |
 | 63 | TPMS sensor | حساس ضغط الكفر | FR3Z-1A189-K (Motorcraft TPMS45) | ✅ | 55 | 206 |
@@ -125,7 +129,7 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 65 | Dark Horse muffler, RH | علبة شكمان يمين | PR3Z-5230-AV | ✅ | 1,548 (2,063) | 5,805 |
 | 66 | Dark Horse muffler, LH | علبة شكمان يسار | PR3Z-5230-BB | ✅ | 1,580 (2,106) | 5,925 |
 | 67 | Active valve actuator | محرك صمام الشكمان | PR3Z-5K245-B | ✅ | ❓ | ❓ |
-| 68 | Quad-tip valance (with sensors) | صدام سفلي بفتحات الشكمان | PR3Z-17F828-DA | ⚠️ | ❓ | ❓ |
+| 68 | ~~PR3Z-17F828-DA~~ | — | ❌ This is the EcoBoost/GT dual-tip valance. Dark Horse uses PR3Z-17F828-EA (row 19) | ❌ | 262.33 | — |
 | — | **Cheaper option:** used mufflers | شكمان مستعمل | — | — | 250–600 each | 940–2,250 each |
 
 ## 9. Electrical, key, fuel (الكهرباء والمفتاح والوقود)
@@ -134,7 +138,7 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 |---|---|---|---|---|---|---|
 | 69 | Smart key (Gulf: 433/434 MHz) | مفتاح ذكي | PR3T-15K601-BB (not MR3T, which is 902 MHz) | ✅ | 45–61 refurbished + programming | 170–230 + locksmith |
 | 70 | Battery, AGM Group 48 | بطارية | BAGM-48H6-760 | ✅ | 213–233 | 800–874 |
-| 71 | Main body harness (if it can't be repaired) | ظفيرة رئيسية | PR3Z-14A005-x (by options) | ⚠️ | ❓ | ❓ |
+| 71 | Main body harness (if it can't be repaired) | ظفيرة رئيسية | PR3Z-14A005-x. 48 versions exist (e.g. -G at $888.62), so pick by VIN | ⚠️ | ~889 | ~3,332 |
 | 72 | Rear body / trunk / bumper harnesses | ظفيرة خلفية | ❓ ask by VIN (repair is usually cheaper) | ❓ | ❓ | 1,875–7,500 for repair (est.) |
 | 73 | Instrument cluster (only if dead) | العداد | PR3Z-10849-A (build ≤ 11/28/2023) / RR3Z-10849-C (later) | ✅ | 498.39 | 1,869 |
 | 74 | Fuel tank (check for damage) | خزان البنزين | JR3Z-9002-K | ✅ | 799.19 | 2,997 |
@@ -148,13 +152,13 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | # | Part | Arabic | Part number | Fit | USD | SAR |
 |---|---|---|---|---|---|---|
 | 79 | Rear seat belt, RH (Dark Horse indigo) | حزام خلفي يمين | PR3Z-63611B68-UA | ✅ | 234.89 | 881 |
-| 80 | Rear seat belt, LH | حزام خلفي يسار | PR3Z-63611B69-UA | ⚠️ | ~235 | ~881 |
-| 81 | Trunk side trim, LH | تلبيسة الشنطة يسار | PR3Z-6345423-AA | ⚠️ | ❓ | ❓ |
+| 80 | Rear seat belt, LH (coupe, deep indigo) | حزام خلفي يسار | PR3Z-63611B69-UA | ✅ site | 228.01 (336.90) | 855 |
+| 81 | Trunk side carpet, LH (coupe, 12-speaker audio) | تلبيسة الشنطة يسار | PR3Z-6345423-AB (backordered) | ⚠️ depends on audio | ❓ | ❓ |
 | 82 | Trunk side trim, RH | تلبيسة الشنطة يمين | PR3Z-6345422-AA / -AB / -BA | ✅ | 227.68–354.42 | 854–1,329 |
-| 83 | C-pillar inner trim | تلبيسة القائم | PR3Z-7631004-BC | ⚠️ | 384.58 | 1,442 |
+| 83 | C-pillar inner trim | تلبيسة القائم | ❌ PR3Z-7631004-BC is for the CONVERTIBLE. Coupe number ❓ | ❓ | ❓ | ❓ |
 | 84 | Quarter trim panel, LH | تلبيسة جانبية يسار | PR3Z-6331013-AC (Dark Horse colour ❓) | ⚠️ | ❓ | ❓ |
-| 85 | Package tray | رف خلفي | PR3Z-6346668-AB | ⚠️ | ❓ | ❓ |
-| 86 | Trunk carpet / load floor | موكيت الشنطة | FR3Z-6313046-AA | ⚠️ | ❓ | ❓ |
+| 85 | Package tray trim panel (coupe) | تلبيسة الرف الخلفي | PR3Z-6346668-AB | ✅ site | 432.54 (650.63) | 1,622 |
+| 86 | Trunk trim panel (rear forward) | موكيت الشنطة | FR3Z-6313046-AA (backordered) | ✅ site | ❓ | ❓ |
 | 87 | Rear seat back frame, LH | هيكل المرتبة الخلفية | PR3Z-78613A39-B | ⚠️ | 400.65 | 1,502 |
 
 ---
