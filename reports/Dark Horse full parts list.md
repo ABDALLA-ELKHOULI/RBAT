@@ -18,8 +18,8 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | # | Part | Arabic | Part number | Fit | USD | SAR |
 |---|---|---|---|---|---|---|
 | 1 | Quarter panel assy, LH, coupe | ربع خلفي يسار | PR3Z-6327841-A | ✅ | 1,607.60 (2,418.17) | 6,029 |
-| 2 | Rear frame side member, LH | شاصي خلفي يسار | FR3Z-6310125-B / FR3Z-6310457-A / PR3Z-6310463-A | ⚠️ conflicting | ~847 | ~3,176 |
-| 3 | Rear frame side member, RH | شاصي خلفي يمين | FR3Z-6310124-A / FR3Z-6310456-B / PR3Z-6310462-A | ⚠️ conflicting | ~732 | ~2,745 |
+| 2 | Rear frame side member, LH (coupe) | شاصي خلفي يسار | FR3Z-6310457-A (pair of 456-B). Not 125-B (convertible assy), not PR3Z-6310463-A (front rail) | ✅ coupe | 372.97 (561.03) | 1,399 |
+| 3 | Rear frame side member, RH (coupe) | شاصي خلفي يمين | FR3Z-6310456-B. Not 124-A (convertible assy), not PR3Z-6310462-A (front rail) | ✅ site | 331.86 (490.33) | 1,244 |
 | 4 | Rear floor pan (trunk floor) | أرضية الشنطة | FR3Z-6311215-A | ✅ | 336.67 (497.45) | 1,263 |
 | 5 | Rear body panel (inner) | البانل الخلفي | PR3Z-6340320-A | ✅ | 176.94 (261.43) | 664 |
 | 6 | Rear cross-member | عارضة خلفية | FR3Z-63109A68-A | ✅ | 93.44 (135.65) | 350 |
@@ -31,6 +31,8 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 11 | Rear wheelhouse liner, LH | بطانة الرفرف الخلفي | PR3Z-63278B51-B (Dark Horse-specific: CJ Pony SS41-V) | ✅ | 70.42 (102.50) | 264 |
 | 12 | Rear rail extensions / end plates | نهايات الشاصي | ❓ ask by VIN (site search found nothing) | ❓ | ❓ | ❓ |
 | 12b | Rear bumper cover screw | برغي الصدام | W716345-S450B | ✅ site | 9.68 | 36 |
+| 12c | Rear bumper hardware: U-nut / side bracket nut / mount bracket nut / extension retainer | صواميل وكلبسات الصدام | W704277-S439 · W790229-S900 · W721035-S439 · W705436-S300 | ✅ site | 9.68 · 12.08 · 12.08 · 6.04 | ~150 for a set |
+| 12d | Stabilizer link nut | صامولة رابط التوازن | W520214-S440 | ✅ site | 0.86 each | 3 each |
 
 ## 2. Rear bumper and sensors (الصدام والحساسات)
 
