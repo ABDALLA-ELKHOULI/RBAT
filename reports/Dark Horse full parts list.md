@@ -24,8 +24,8 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 5 | Rear body panel (inner) | البانل الخلفي | PR3Z-6340320-A | ✅ | 176.94 (261.43) | 664 |
 | 6 | Rear cross-member | عارضة خلفية | FR3Z-63109A68-A | ✅ | 93.44 (135.65) | 350 |
 | 6b | Package tray, structural sheet metal (coupe) | رف خلفي حديد | PR3Z-6346668-A | ✅ site | 243.21 (359.35) | 912 |
-| 7 | Floor side rail reinforcement | تقوية الشاصي | FR3Z-6311253-B | ⚠️ | ~73 | ~274 |
-| 8 | Inner wheelhouse, LH | بيت الكفر الداخلي يسار | FR3Z-6327887-A | ⚠️ | ❓ | ❓ |
+| 7 | Floor side rail reinforcement, rear LH (coupe) | تقوية الشاصي يسار | FR3Z-6311253-B | ✅ site | 82.58 (119.88) | 310 |
+| 8 | Inner wheelhouse side panel, rear LH (coupe) | بيت الكفر الداخلي يسار | FR3Z-6327887-A | ✅ site | 182.05 (268.98) | 683 |
 | 9 | Quarter panel extension | امتداد الربع | PR3Z-6328058-A | ✅ | ❓ | ❓ |
 | 10 | Rear corner outer panel (for the RH corner, if needed) | زاوية خلفية | PR3Z-63278A92-A | ✅ | ❓ | ❓ |
 | 11 | Rear wheelhouse liner, LH | بطانة الرفرف الخلفي | PR3Z-63278B51-B (Dark Horse-specific: CJ Pony SS41-V) | ✅ | 70.42 (102.50) | 264 |
@@ -36,17 +36,17 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 
 | # | Part | Arabic | Part number | Fit | USD | SAR |
 |---|---|---|---|---|---|---|
-| 13 | Rear bumper impact bar | عارضة الصدام الحديد | FR3Z-17906-A | ⚠️ sources conflict | 210.52 (229.83) | 789 |
+| 13 | Rear bumper impact bar | عارضة الصدام الحديد | FR3Z-17906-A (site says "2015-22" yet shows Fits) | ⚠️ confirm by VIN | 218.41 (242.04) | 819 |
 | 14 | Rear bumper energy absorber | فلين/ممتص الصدام | PR3Z-17E855-B | ✅ | ❓ | ❓ |
 | 15 | Bumper bracket, RH | دعامة صدام يمين | PR3Z-17D942-C | ✅ | ❓ | ❓ |
 | 16 | Bumper bracket, LH | دعامة صدام يسار | PR3Z-17D943-C | ✅ | ❓ | ❓ |
 | 17 | Bumper cover support rail | حامل الصدام | PR3Z-17754-AA | ✅ | 58.57 | 220 |
-| 18 | Upper rear bumper cover (primed) | صدام خلفي علوي | PR3Z-17K835-AAPTM | ⚠️ not confirmed as Dark Horse | 509.33 (747.92) | 1,910 |
+| 18 | Upper rear bumper cover (primed) | صدام خلفي علوي | PR3Z-17K835-AAPTM: **DISCONTINUED**. Ask Ford for the replacement number, or use alm2000 | ❌ | — | — |
 | 19 | Lower rear cover / valance, Dark Horse | صدام سفلي دارك هورس | PR3Z-17F828-EA | ✅ | 331 | 1,241 |
 | 20 | Blind-spot radar ×2 | حساس النقطة العمياء | ML3Z-14C689-H (replaces -G) | ✅ | 327.83 each (479.28) | 2,459 for 2 |
 | 21 | Rear parking sensor (×4 if all broken) | حساس الركن | JU5Z-15K859-APTM | ✅ | 83–100 each | ~310–375 each |
 | 22 | Parking sensor wiring | ظفيرة الحساسات | PR3Z-15K867-AA | ✅ | ❓ | ❓ |
-| 23 | Reflectors | عاكسات | JR3Z-15A448-A | ⚠️ | ❓ | ❓ |
+| 23 | Reflector, rear RH | عاكس يمين | JR3Z-15A448-A (LH number ❓) | ✅ site | 31.10 (44.77) | 117 |
 | — | **Cheaper option:** complete rear bumper from alm2000 (Riyadh) | صدام عالم الألفين | — | check fit | — | **1,100** |
 
 ## 3. Trunk (الشنطة)
@@ -57,7 +57,7 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 25 | Trunk hinge, LH | مفصلة يسار | PR3Z-6342701-A | ✅ | 56–65 | ~225 |
 | 26 | Trunk hinge, RH | مفصلة يمين | PR3Z-6342700-A | ✅ | ~60 | ~225 |
 | 27 | Trunk weatherstrip | ربل الشنطة | FR3Z-6343720-A | ✅ | 95.80 (147.43) | 359 |
-| 28 | Trunk latch | قفل الشنطة | DR3Z-5443200-A (older generation) | ⚠️ | 73.81 | 277 |
+| 28 | Trunk lock actuator with latch (coupe) | قفل الشنطة | DR3Z-5443200-A (no Fits check shown) | ⚠️ | 88.94 (129.12) | 334 |
 | 29 | Rear camera | كاميرا خلفية | PR3Z-19G490-B | ✅ | 324.78 (476.92) | 1,218 |
 | 30 | Dark Horse rear emblem | شعار دارك هورس | PR3Z-6342528-J | ✅ | 99.99 | 375 |
 | 31 | Dark Horse rear wing | جناح دارك هورس | PR3Z-6344210-xx (suffix ❓) / Ford Performance M-16600-S65PPG | ⚠️ | 365 used / 975 new | 1,369 / 3,656 |
@@ -79,10 +79,10 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 |---|---|---|---|---|---|---|
 | 37 | Torsen differential (3.55 auto / 3.73 manual) | دفرنس تورسن | Complete assembly ❓. Ford Performance Torsen unit M-4204-MT. Used carrier ~807–1,000 | ⚠️ match the ratio | 775 (Torsen unit only) / ~900 used | 2,906 / ~3,375 |
 | 38 | Differential cover | غطاء الدفرنس | FR3Z-4033-H | ✅ | ❓ | ❓ |
-| 39 | Rear axle cooler pump | مضخة تبريد الدفرنس | FR3Z-4C158-B | ⚠️ | ❓ | ❓ |
+| 39 | Rear axle cooler pump ("Cooling – Dark Horse") | مضخة تبريد الدفرنس | FR3Z-4C158-B (backordered) | ✅ site | ❓ | ❓ |
 | 40 | Rear subframe | الجسر الخلفي | JR3Z-5035-H | ✅ | 667–703 (1,001) / 500 used | 2,500–2,636 / 1,875 used |
 | 41 | Halfshaft, RH | كمر يمين | FR3Z-4K138-E (also KR3Z-4K138-D) | ✅ | 300 (440) | 1,125 |
-| 42 | Halfshaft, LH | كمر يسار | FR3Z-4K139-F / KR3Z-4K139-G | ⚠️ | ~300 | ~1,125 |
+| 42 | Halfshaft, LH | كمر يسار | KR3Z-4K139-G = **manual** 5.0 only. Auto: FR3Z-4K139-F ⚠️ | ✅ manual | 152.28 (225) | 571 |
 | 43 | Transmission mount, 10R80 auto | كرسي قير أوتوماتيك | JR3Z-6068-A | ✅ | 97–125 | 364–469 |
 | 43b | Transmission mount, manual | كرسي قير عادي | BR3Z-7E373-B | ✅ | 82 (119) | 308 |
 
@@ -96,7 +96,7 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 47 | Lower arm, LH | مقص سفلي يسار | PR3Z-5500-C | ✅ | ❓ (~397) | ~1,489 |
 | 48 | Lower arm, RH | مقص سفلي يمين | PR3Z-5500-H | ✅ | 397 (585) | 1,489 |
 | 49 | Toe link kit | ذراع الترصيص | M-5972-M | ✅ | 78 | 293 |
-| 50 | MagneRide rear shock ×2 | مساعد مغناطيسي | PR3Z-18125-E | ⚠️ likely | 213–357 each (580) | 799–1,339 each |
+| 50 | MagneRide rear shock ×2 | مساعد مغناطيسي | ❌ PR3Z-18125-E is "without active damping", NOT MagneRide. Correct number ❓ ask by VIN | ❓ | ❓ | ❓ |
 | 51 | Rear spring, LH (adaptive damping) | سستة يسار | PR3Z-5560-AC | ✅ site | 100.56 (146) | 377 |
 | 51b | Rear spring, RH | سستة يمين | ❓ ask by VIN | ❓ | ~100 | ~377 |
 | 52 | Rear sway bar | عمود توازن | ❌ FR3Z-5A772-A is for non-5.0 cars. Need the Dark Horse number | ❓ | ❓ | ❓ |
