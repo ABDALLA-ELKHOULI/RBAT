@@ -81,6 +81,8 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 |---|---|---|---|---|---|---|
 | 37 | Torsen differential (3.55 auto / 3.73 manual) | دفرنس تورسن | Complete assembly ❓. Ford Performance Torsen unit M-4204-MT. Used carrier ~807–1,000 | ⚠️ match the ratio | 775 (Torsen unit only) / ~900 used | 2,906 / ~3,375 |
 | 38 | Differential cover | غطاء الدفرنس | FR3Z-4033-H | ✅ | ❓ | ❓ |
+| 38b | Torsen differential case, loaded (3.55 / 3.73) | علبة دفرنس تورسن كاملة | FR3Z-4026-C (check full description: mentions "without differential cooler") | ⚠️ | 1,516.85 (2,106.15) | 5,688 |
+| — | ~~JR3Z-4310-A~~ housing | — | ❌ "without Torsen diff": not Dark Horse | ❌ | 381.15 | — |
 | 39 | Rear axle cooler pump ("Cooling – Dark Horse") | مضخة تبريد الدفرنس | FR3Z-4C158-B (backordered) | ✅ site | ❓ | ❓ |
 | 40 | Rear subframe | الجسر الخلفي | JR3Z-5035-H | ✅ | 667–703 (1,001) / 500 used | 2,500–2,636 / 1,875 used |
 | 41 | Halfshaft, RH | كمر يمين | FR3Z-4K138-E (also KR3Z-4K138-D) | ✅ | 300 (440) | 1,125 |
@@ -98,7 +100,7 @@ Confirm every number against the VIN with Al Jazirah Ford before ordering. Gulf-
 | 47 | Lower arm, LH | مقص سفلي يسار | PR3Z-5500-C | ✅ | ❓ (~397) | ~1,489 |
 | 48 | Lower arm, RH | مقص سفلي يمين | PR3Z-5500-H | ✅ | 397 (585) | 1,489 |
 | 49 | Toe link kit | ذراع الترصيص | M-5972-M | ✅ | 78 | 293 |
-| 50 | MagneRide rear shock ×2 | مساعد مغناطيسي | ❌ PR3Z-18125-E is "without active damping", NOT MagneRide. Correct number ❓ ask by VIN | ❓ | ❓ | ❓ |
+| 50 | MagneRide rear shock ×2 (PR3Z-18125-A/-D/-E/-M are all NON-MagneRide) | مساعد مغناطيسي | ❌ PR3Z-18125-E is "without active damping", NOT MagneRide. Correct number ❓ ask by VIN | ❓ | ❓ | ❓ |
 | 51 | Rear spring, LH (adaptive damping) | سستة يسار | PR3Z-5560-AC | ✅ site | 100.56 (146) | 377 |
 | 51b | Rear spring, RH | سستة يمين | ❓ ask by VIN | ❓ | ~100 | ~377 |
 | 52 | Rear sway bar | عمود توازن | ❌ FR3Z-5A772-A is for non-5.0 cars. Need the Dark Horse number | ❓ | ❓ | ❓ |
